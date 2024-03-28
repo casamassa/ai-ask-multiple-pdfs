@@ -68,23 +68,11 @@ To use the MultiPDF Chat App, follow these steps:
 
 5. Ask questions in natural language about the loaded PDFs using the chat interface.
 
-## Contributing
-
----
-
-This repository is intended for educational purposes and does not accept further contributions. It serves as supporting material for a YouTube tutorial that demonstrates how to build this project. Feel free to utilize and enhance the app based on your own requirements.
-
-## License
-
----
-
-The MultiPDF Chat App is released under the [MIT License](https://opensource.org/licenses/MIT).
-
 ## Notes
 
 ---
 
-1. I choose use PyVenv to create virtual envorioment for my Python project, to ensure to use the Python version 3.9
+I choose use PyVenv to create virtual envorioment for my Python project, to ensure to use the Python version 3.9
 
 First, make sure install Python 3.9 in your computer:
 
@@ -144,4 +132,17 @@ pip freeze > requirements.txt
 ---
 
 https://instructor-embedding.github.io/
+
 https://huggingface.co/hkunlp/instructor-xl
+
+## Contributing
+
+---
+
+This repository is intended for educational purposes and does not accept further contributions. It serves as supporting material for a YouTube tutorial that demonstrates how to build this project. Feel free to utilize and enhance the app based on your own requirements.
+
+## License
+
+---
+
+The MultiPDF Chat App is released under the [MIT License](https://opensource.org/licenses/MIT).
